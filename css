@@ -3,5 +3,39 @@
     padding: 0;
 }
 
-#cabecalho
+#cabecalho {
     height: 100px;
+    background-color: :rgb(212, 212, 192);
+    margin: 0 auto;
+}
+
+#menu {
+    width: 20%;
+    height: 600px;
+    background-color: rgb(185, 180, 174);
+    float: left;
+    margin-top: 10px;
+
+}
+
+#principal{
+  width:80%;
+  height:600px;
+  background-color:bisque;
+  float: left;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+#rodape{
+   height: 50px;
+   background-color:blueviolet(212, 212, 192);
+   clear: both;
+}
+
+p {
+text-align: center;
+font-family: arial,helvetica,sans-serif;
+font-size: 16px;
+color:blue;
+}
