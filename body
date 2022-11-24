@@ -1,13 +1,13 @@
 <body>
     <div id="cabecalho">
-        <br><p>CABEÇALHO - aqui pode ser o logo, imagens, menus<p>
+        <br><p>CABEÇALHO - copa do mundo 2018<p>
 </div>
 <div id="menu">
     <br><p>MENU </p>
-    <p>- pode ter links, imagens, texto </p>
+    <p>- a copa do mundo de 2018 ficou marcada pelas disputas emocionantes e jogos de tirar o folego </p>
 </div>
 <div id="principal">
-    <br><p>PAGINA PRINCIPAL - pode ter links, imagens, texto</p>
+    <br><p>PAGINA PRINCIPAL - COPA DO MUNDO 2018(CAMPEAO;FRANÇA)</p>
 </div>
 <div id="rodape">
     <br><p>RODAPÉ - alguma notaçao</p>
